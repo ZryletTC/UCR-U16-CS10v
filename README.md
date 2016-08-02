@@ -2,6 +2,7 @@
 #####Collection of my work from online class, CS10v, I took from UCR's Dr. Brian Linard.
 
 This class covered the basics of C++:
+
 1. Introduction
   * Input/Output
   * How programs are run
