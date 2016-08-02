@@ -1,5 +1,5 @@
-# UCR-U16-CS12v
-#####Collection of my work from online class, CS10v, I took from UCR's Dr. Brian Linard.
+# UCR-U16-CS10v
+###Collection of my work from online class, CS10v, I took from UCR's Dr. Brian Linard.
 
 This class covered the basics of C++:
 
