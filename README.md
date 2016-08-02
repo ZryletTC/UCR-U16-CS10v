@@ -1,30 +1,35 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# UCR-U16-CS12v
+#####Collection of my work from online class, CS10v, I took from UCR's Dr. Brian Linard.
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started with C/C++, we have created some small hello world
-applications and a Makefile.
-
-Have a look at the files, and use the terminal to build them:
-
-    $ make
-    $ ./hello-c-world
-    $ ./hello-cpp-world
-
-We're sure you can take it from there. Go ahead and edit the code, 
-or add some new files. It's all up to you! 
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+This class covered the basics of C++:
+1. Introduction
+  * Input/Output
+  * How programs are run
+2. Variables/Assignment
+  * Identifiers
+  * Const variables
+  * Data types & conversion
+  * Binary
+  * The Random class
+  * Debugging
+3. Branches
+  * If-else statements
+  * Boolean operations
+  * Conditional expressions
+  * String operations
+4. Loops
+  * While loops
+  * For loops
+  * Do-while loops
+  * Break and continue
+  * Nested loops
+  * Incremental programming
+5. User-Defined Functions
+  * How functions work
+  * Parameters
+  * Returns
+  * Default parameters
+6. Vectors
+  * Array concept
+  * Vector objects
+  * Vector operations
